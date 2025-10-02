@@ -14,8 +14,8 @@ This project analyzes over 60 years of global climate data to visualize the rela
 
 You can find all the final files in this repository.
 
-* **Summary Presentation:** [`[Your Name] - Climate Change Analysis.pdf`](./[Your Name] - Climate Change Analysis.pdf)
-* **Power BI Dashboard:** [`Your_File_Name.pbix`](./Your_File_Name.pbix)
+* **Summary Presentation:** [`YUGANK SINGH - Climate Change Analysis.pdf`](./[Your Name] - Climate Change Analysis.pdf)
+* **Power BI Dashboard:** [`ClimateChange.pbix`](./climateChange.pbix)
     * *Requires Microsoft Power BI Desktop to view.*
 * **Excel Dashboard:** [`Your_File_Name.xlsx`](./Your_File_Name.xlsx)
     * *Requires the Microsoft Excel desktop app for full interactivity (slicers). The web preview will not work correctly.*
