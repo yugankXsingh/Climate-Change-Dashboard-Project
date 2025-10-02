@@ -1,6 +1,6 @@
 # Climate Change Dashboard Project
 
-### By: [Your Name] | [Link to your LinkedIn profile or email]
+### By: Yugank Singh | yugank942@gmail.com
 
 ---
 
@@ -14,10 +14,10 @@ This project analyzes over 60 years of global climate data to visualize the rela
 
 You can find all the final files in this repository.
 
-* **Summary Presentation:** [`YUGANK SINGH - Climate Change Analysis.pdf`](./[Your Name] - Climate Change Analysis.pdf)
-* **Power BI Dashboard:** [`ClimateChange.pbix`](./climateChange.pbix)
+* **Summary Presentation:** [`Yugank Singh - Climate Change Analysis.pdf`](./PROJECT%20REPORT/Climate%20Change.pptx)
+* **Power BI Dashboard:** [`ClimateChangeDashboard.pbix`](./POWER%20BI%20DASHBOARD%20FILE/ClimateChangeDashboard.pbix)
     * *Requires Microsoft Power BI Desktop to view.*
-* **Excel Dashboard:** [`Your_File_Name.xlsx`](./Your_File_Name.xlsx)
+* **Excel Dashboard:** [`YUGANK SINGH - Excel Climate Dashboard.xlsx`](./EXCEL%20DASHBOARD/YUGANK%20SINGH-%20Excel%20Climate%20Dashboard.xlsx)
     * *Requires the Microsoft Excel desktop app for full interactivity (slicers). The web preview will not work correctly.*
 
 ---
